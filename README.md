@@ -8,7 +8,8 @@ Category Filters: Predefined buttons for quick search categories like:
 Restaurants
 Parks
 Hotels
-[Add more categories as needed]
+Museums
+Shopping
 Google Places API: Leverages Google’s powerful Places API to deliver relevant results.
 Location Detection: Automatically detects the user's current location.
 Refined Search: Users can use category buttons to filter their search.
